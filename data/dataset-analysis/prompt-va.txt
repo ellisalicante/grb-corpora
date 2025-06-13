@@ -1,0 +1,5 @@
+<EXAMPLES>
+
+Frase: "<SENTENCE>"
+
+Instruccions: Identifica tots els substantius i pronoms en la frase proporcionada. Per a cadascun, determina si es referix a una persona (P) o no (N), i especifica el seu gènere gramatical: masculí (M), femení (F). Exclou els cognoms. Seguix el format dels exemples proporcionats sense afegir text addicional.

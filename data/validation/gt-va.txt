@@ -1,0 +1,908 @@
+﻿"Per tant, no s'ho plantege vosté com un logro vindre ací a criticar eixes coses perquè si vosté això vol criticar-ho, doncs, molt bé, critique-ho, jo no tinc res a vore amb allò ni he tingut mai res a vore, no he tingut mai res a vore, i he sigut molt crític amb aquella situació." "logro - N, M
+coses - N, F
+res - N, M
+situació - N, F"
+
+"Miren, els ciutadans estan esperant que vostés demanen perdó pel menyspreu que la senyora Oltra ha tingut en una de les institucions més importants de la Comunitat Valenciana." "ciutadans - P, M
+perdó - N, M
+menyspreu - N, M
+senyora - P, F
+institucions - N, M
+Comunitat - N, F"
+
+"I vosté ha dit falsedats i ha dit coses que no són veritat, començant amb coses tan increïbles com que s'havien desallotjat pacients d'habitacions per, als familiars de l'alcalde de Benidorm, donar-los habitacions, cosa que me pareix no sols greu sinó a més me pareix esperpèntic." "falsedats - N, F
+coses - N, F
+veritat - N, F
+coses - N, F
+pacients - P, M
+habitacions - N, F
+familiars - P, M
+alcalde - P, M
+Benidorm - N, F
+habitacions - N, F
+cosa - N, F"
+
+"Bé, en tercer lloc, cal deixar clar que és un assumpte judicialitzat, que no hem d'entorpir la investigació." "lloc - N, M
+assumpte - N, M
+investigació - N, F"
+
+"Senyor Pañella, en esta primera intervenció em centraré en tots i cadascun dels punts que planteja vosté en la seua moció." "senyor - P, M
+intervenció - N, F
+punts - N, M
+moció - N, M"
+
+"(Rialles)  El que vull dir és que és molt difícil moderar si l'orador que està en l'ús de la paraula, que ha de replicar a una persona en concret, obri a tot el món." "orador - P, M
+ús - N, M
+paraula - N, F
+persona - P, M
+món - P, M"
+
+"I experiències n'hi ha més d'una en eixe sentit." "experiències - N, F
+sentit - N, M"
+
+"Senyora Tirado, per a rèplica en el que haja sigut contradita." "senyora - P, F
+rèplica - N, F"
+
+"Hem vist passes enrere, per exemple en el cas del Consell Metropolità de l'Horta i en altres plantejaments." "passes - N, M
+cas - N, M
+Consell - N, M
+Horta - N, F
+plantejaments - N, M"
+
+"En primer lloc, farà per a defensar la iniciativa un torn a favor, en nom del grup que ha proposat -el Grup Popular-, l'il·lustre diputat Rubén Ibáñez." "lloc - N, M
+torn - N, M
+nom - N, M
+grup - N, M
+iniciativa - N, F
+Grup - N, M
+diputat - P, M
+Rubén - P, M"
+
+"Ho ha dit ara mateix." ""
+
+"Tota una generació ens ho demana, és tasca nostra donar-los resposta." "generació - N, F
+tasca - N, F
+nostra - P, F
+los - P, M
+resposta - N, F"
+
+"Afortunadament ha quedat ahí, però que no cree precedent." "precedent - N, M"
+
+"Els vaig a llegir l'únic protocol, entre cometes, que existia." "els - P, M
+protocol - N, M
+cometes - N, F"
+
+"Jo amb vosté he parlat molt en valencià, deu ser converses personals, però no ací, a la trona." "converses - N, F
+trona - N, F"
+
+"Literalment, ho feien així i deien que era per a assecar les llàgrimes dels espectadors." "llàgrimes - N, F
+espectadors - P, M"
+
+"L'altre dia ací, en el ple de Les Corts, li vam preguntar: es pagarà la indemnització?" "dia - N, M
+ple - N, M
+Corts - N, F
+indemnització - N, F"
+
+"Per tant, hi ha una qüestió que és fonamental." "qüestió - N, F"
+
+"I no entenem molt bé quins han sigut els criteris que s'han utilitzat per a donar eixes ajudes, que evidentment tampoc responien a necessitats del mateix sector o de les demandes del mateix sector i, evidentment, tampoc responien a les necessitats del mateix territori." "criteris - N, M
+ajudes - N, F
+necessitats - N, F
+sector - N, M
+demandes - N, F
+sector - N, M
+necessitats - N, F
+territori - N, M"
+
+"Si la qüestió és que les polítiques se plasmen, que les coses vagen, funcionen i que això done satisfacció als ciutadans." "qüestió - N, F
+polítiques - N, F
+coses - N, F
+satisfacció - N, F
+ciutadans - P, M"
+
+"Som conscients que són xifres que estan molt per sota d'allò que arreplega el contracte programa, evidentment, on s'apuntava el primer any quatre milions, en l'exercici 2018, i sis en la resta." "xifres - N, F
+contracte - N, M
+programa - N, M
+any - N, M
+milions - N, M
+exercici - N, M
+resta - N, F"
+
+"I, per tant, eixa pregunta li l'hauria de fer al senyor Soriano perquè nosaltres ho desconeguem." "pregunta - N, F
+senyor - P, M
+nosaltres - N, M"
+
+"A vore, és que n'hi han molts mitjans de comunicació en espanyol." "mitjans - N, M
+comunicació - N, F
+espanyol - N, M"
+
+"La conselleria de justícia ha de dotar de mitjans materials i humans l'administració de justícia, inclosa també la fiscalia." "conselleria - N, F
+justícia - N, F
+mitjans - N, M
+materials - N, M
+humans - P, M
+administració - N, F
+justícia - N, F
+fiscalia - P, F"
+
+"En l'avaluació que les institucions europees feren cinc anys després de l'aprovació del pilar social, es parla, com no pot ser d'una altra manera, de l'avanç en les polítiques d'igualtat, en la protecció social, tant a través de l'establiment de la renda mínima, com en la consolidació dels serveis assistencials, com ara la dependència." "avaluació - N, F
+institucions - N, F
+anys - N, M
+aprovació - N, F
+pilar - N, M
+manera - N, F
+avanç - N, M
+polítiques - N, F
+protecció - N, F
+establiment - N, M
+renda - N, F
+consolidació - N, F
+serveis - N, M
+dependència - N, F"
+
+"Els que estan més prop del ciutadà, els que poden en un moment determinat estar més damunt de les accions puntuals dins de les seus localitats en temes tant d'arbitratge, com temes de preus, com la problemàtica que es pot plantejar en una localitat." "els - P, M
+ciutadà - P, M
+els - P, M
+moment - N, M
+accions - N, F
+seus - N, M
+localitats - N, F
+temes - N, M
+arbitratge - N, M
+temes - N, M
+preus - N, M
+problemàtica - N, F
+localitat - N, F"
+
+"Això, en el consell d'administració, en ningun moment se va dir." "Això - N, M
+consell - N, M
+administració - N, F
+moment - N, M"
+
+"És cert que no amb la celeritat i amb la intensitat que a tots ens agradaria; però no és menys cert que, després de tres anys de dura recessió, s'està aconseguint revertir la situació i les dades objectives hui ja són de creiximent econòmic a la Comunitat Valenciana i al conjunt d'Espanya." "cert - N, M
+celeritat - N, F
+intensitat - N, F
+tots - P, M
+ens - P, M
+cert - N, M
+anys - N, M
+recessió - N, F
+situació - N, F
+dades - N, F
+objectives - N, F
+creixement - N, M
+Comunitat - N, F
+conjunt - N, M
+Espanya - N, F"
+
+"Nosaltres no voldríem que el tercer carril se convertira en una solució definitiva, i per les notícies que vénen de França, també afectat per la crisi econòmica, pensem que el que tots entenem per corredor mediterrani pot ser una cosa per a més enllà del 2050." "nosaltres - P, M
+carril - N, M
+solució - N, F
+notícies - N, F
+França - N, F
+crisi - N, F
+el - P, M
+que - P, M
+tots - P, M
+corredor - N, M
+cosa - N, F"
+
+"Estem parlant de 17 projectes per un import d'un milió d'euros." "projectes - N, M
+import - N, M
+milió - N, M
+euros - N, M"
+
+"Es vol potenciar la integració de l'alumnat immigrant en el sistema educatiu i les iniciatives encaminades a facilitar l'accés dels mateixos estudiants als centres." "integració - N, F
+alumnat - P, M
+sistema - N, M
+iniciatives - N, F
+accés - N, M
+estudiants - P, M
+centres - N, M"
+
+"No li sé donar cap cas en concret, no se m'acudix en este moment perquè si no el contaria, però que sí que hi havia una certa diferència." "cas - N, M
+concret - N, M
+moment - N, M
+diferència - N, F"
+
+"I, per tant, nosaltres creguem que ha de ser l'administració suficientment capaç, a no ser que vostés el que me diguen és que són igual d'incompetents que, doncs, les persones que posen al càrrec d'esta fundació, si són igual d'incompetents, doncs, votaran que no, perquè, clar, per a canviar, ens quedem com estem, i així tenim a estes cinc persones cobrant." "nosaltres - P, M
+administració - N, F
+capaç - N, M
+persones - P, F
+càrrec - N, M
+fundació - N, F
+incompetents - P, M
+persones - P, F"
+
+"I gràcies al treball conjunt, al treball conjunt del ministeri i les comunitats autònomes, quan el dia 25 de març es va aprovar l'esborrany del pla hidrològic del Tajo, eixa línia de reserva que estava en 600, va baixar a 400." "gràcies - N, F
+treball - N, M
+conjunt - N, M
+treball - N, M
+ministeri - N, M
+comunitats - P, F
+dia - N, M
+març - N, M
+esborrany - N, M
+pla - N, M
+Tajo - N, M
+línia - N, F
+reserva - N, F"
+
+"I estava ara venint cap ací i una companya me dia: «Madre mía, parece que os pasado una apisonadora por encima." "companya - P, F
+apisonadora - N, F"
+
+"D'este increment, 3,4 milions es destinen a ciutats de més de cinquanta mil habitants, perquè és on n'hi ha major nombre de persones en situació de vulnerabilitat i amb estos diners es podran contractar 140 professionals." "increment - N, M
+milions - N, M
+ciutats - N, F
+mil - N, M
+habitants - P, M
+nombre - N, M
+persones - P, F
+situació - N, F
+vulnerabilitat - N, F
+diners - N, M
+professionals - P, M"
+
+"I eixe edifici està, és un edifici que ara mateix està assignat a la vicepresidència segona." "edifici - N, M
+edifici - N, M
+vicepresidència - N, F
+segona - N, F"
+
+"Però, és que eixes mil persones d'infermeria que estan atenent i que estan reforçant els centres de salut i d'assistència sanitària són necessaris per a ampliar l'oferta de forma molt més efectiva i que puguen arribar al conjunt de la població." "mil - N, M
+persones - P, F
+infermeria - N, F
+centres - N, M
+salut - N, F
+assistència - N, F
+oferta - N, F
+forma - N, F
+conjunt - N, M
+població - P, F"
+
+"Mire, senyor Moreno, jo li he dit qui va a gestionar els arxius, no he dit el lloc on han d'anar ubicats, jo he dit que el sector públic empresarial de La Generalitat, després de la reestructuració, que s'han extingit i estan en fase d'extinció moltes empreses públiques, entitats de dret públic i fundacions, allibera molts espais però no que hagen d'anar a un lloc concret, entre altres coses perquè la filmoteca no és un edifici, la filmoteca és una organització pública i pot utilitzar altres espais i pot utilitzar altres edificis." "senyor - P, M
+arxius - N, M
+lloc - N, M
+sector - N, M
+Generalitat - N, F
+reestructuració - N, F
+fase - N, F
+extinció - N, F
+empreses - N, F
+entitats - N, F
+dret - N, M
+fundacions - N, F
+espais - N, M
+lloc - N, M
+coses - N, F
+filmoteca - N, F
+edifici - N, M
+filmoteca - N, F
+organització - N, F
+espais - N, M
+edificis - N, M"
+
+"Les noves situacions que ens plantegen els moviments demogràfics i migratoris són una realitat a la qual no se li pot donar l'esquena." "situacions - N, F
+moviments - N, M
+realitat - N, F
+la - P, F
+ens - P, M
+esquena - N, F"
+
+"A partir de l'endemà de publicar-se les persones interessades tindran un termini de 5 dies hàbils per a la presentació d'esmenes o reclamacions, que tramitaran accedint al seu expedient electrònic." "endemà - N, M
+persones - P, F
+termeni - N, M
+dies - N, M
+presentació - N, F
+esmenes - N, F
+reclamacions - N, F
+seu - P, M
+expedient - N, M"
+
+"S'acceptaran dos tipus de propostes: 1) Treballs susceptibles de ser la base d'un futur projecte empresarial innovador." "tipus - N, M
+propostes - N, F
+Treballs - N, M
+base - N, F
+futur - N, M
+projecte - N, M"
+
+"Amb aquest propòsit, el vicerectorat concedirà ajudes al centre o al departament del professorat de la UA que sol·licite organitzar un BIP a la Universitat d'Alacant." "propòsit - N, M
+vicerectorat - P, M
+ajudes - N, F
+centre - N, M
+departament - N, M
+professorat - P, M
+UA - N, F
+que - P, M
+BIP - N, M
+Universitat - N, F
+Alacant - N, F"
+
+"Les dades de caràcter personal que consten en la sol·licitud seran tractades per la Universitat d'Alacant, en el seu caràcter de responsable i incorporades a l'activitat de tractament «113 -Convocatòries de concurs per a la provisió de places de personal investigador»." "dades - N, F
+caràcter - N, M
+sol·licitud - N, F
+Universitat - N, F
+Alacant - N, F
+seu - P, M
+caràcter - N, M
+responsable - N, M
+activitat - N, F
+tractament - N, M
+Convocatòries - N, F
+concurs - N, M
+provisió - N, F
+places - N, F
+personal - N, M
+investigador - P, M"
+
+"Sistema de selecció: a) Prova: Es realitzarà una prova relacionada amb l'objecte de la convocatòria per a valorar l'adequació del personal aspirant a les funcions a realitzar, i que constarà de dues parts: Primera part: Prova oral, que podrà ser gravada, consistent en una conversa en francès per a valorar el coneixement i maneig en aqueix idioma." "sistema - N, M
+selecció - N, F
+Prova - N, F
+prova - N, F
+objecte - N, M
+convocatòria - N, F
+adequació - N, F
+personal - N, M
+funcions - N, F
+parts - N, F
+part - N, F
+Prova - N, F
+conversa - N, F
+coneixement - N, M
+maneig - N, M
+idioma - N, M"
+
+"La Unitat de Pràctiques comprovarà els tràmits i la documentació vinculada a les practiques per a admetre o denegar les sol·licituds:  el conveni de cooperació educativa subscrit; l'acord de pràctiques degudament signat per totes les parts; la memòria de pràctiques lliurada per a avaluació; l'avaluació per part del tutor/a extern i acadèmic." "Unitat - N, F
+Pràctiques - N, F
+tràmits - N, M
+documentació - N, F
+pràctiques - N, F
+sol·licituds - N, F
+conveni - N, M
+cooperació - N, F
+acord - N, M
+pràctiques - N, F
+parts - N, F
+memòria - N, F
+pràctiques - N, F
+avaluació - N, F
+avaluació - N, F
+tutor - P, M
+tutora - P, F"
+
+"L'execució d'aquesta dotació està supeditada a la disponibilitat de liquiditat de la Universitat d'Alacant." "execució - N, F
+dotació - N, F
+disponibilitat - N, F
+liquiditat - N, F
+Universitat - N, F
+Alacant - N, F"
+
+"En qualsevol moment del procés, es podrà sol·licitar al personal aspirant la presentació dels originals dels documents presentats i, si escau, de la traducció per intèrpret jurat d'aquests." "moment - N, M
+procés - N, M
+personal - N, M
+presentació - N, F
+documents - N, M
+traducció - N, F
+intèrpret - P, M"
+
+"El nomenament dels membres es farà públic abans de l'acte de constitució en Seu Electrònica." "nomenament - N, M
+membres - P, M
+acte - N, M
+constitució - N, F
+Seu - N, F"
+
+"La superació de la prova, si escau, serà condició necessària per a l'assignació de les pràctiques." "superació - N, F
+prova - N, F
+condició - N, F
+assignació - N, F
+pràctiques - N, F"
+
+"El gaudi d'aquesta beca serà incompatible amb el gaudi de qualsevol altra beca durant el període de durada d'aquesta (a excepció de les beques d'ajudes a l'estudi), per la qual cosa en cas de coincidència s'haurà de renunciar a l'altra beca perquè aquesta siga adjudicada." "gaudi - N, M
+aquesta - N, F
+beca - N, F
+gaudi - N, M
+qualsevol - N, M
+beca - N, F
+període - N, M
+durada - N, F
+aquesta - N, F
+excepció - N, F
+beques - N, F
+ajudes - N, F
+estudi - N, M
+cosa - N, F
+cas - N, M
+coincidència - N, F
+beca - N, F
+aquesta - N, F"
+
+"Import de l’ajudaL'import màxim de l'ajuda serà el següent:a) Ajuda per a allotjament i manutenció: les quantitats dependran del país de destinació." "import - N, M
+ajuda - N, F
+import - N, M
+ajuda - N, F
+ajuda - N, F
+allotjament - N, M
+manutenció - N, F
+quantitats - N, F
+país - N, M
+destinació - N, F"
+
+"Director de la Unitat Tècnica de Qualitat o persona en qui delegue, que estendrà acta del sorteig." "Director - P, M
+Unitat - N, F
+persona - P, F
+qui - N, M
+acta - N, F
+sorteig - N, M"
+
+"En el supòsit d'estudiants no comunitaris han de tenir Permís de Residencia en vigor o haver iniciat els tràmits de sol·licitud." "supòsit - N, M
+estudiants - P, M
+Permís - N, M
+tràmits - N, M
+sol·licitud - N, F"
+
+"A partir de l’endemà de ser publicada les persones interessades tindran un termini de 5 dies hàbils per a presentar-hi esmenes o reclamacions." "endemà - N, M
+persones - P, F
+termini - N, M
+dies - N, M
+esmenes - N, F
+reclamacions - N, F"
+
+"El pagament d'aquesta dotació estarà supeditat a la disponibilitat de liquiditat de la UA.La subvenció assignada a cada ajuda s'ajustarà al que es disposa en la Llei 38/2003,  de 17 de novembre,  General de Subvencions, a les regulacions, requisits i termes establits per les normes de funcionament intern de la UA i al que aquesta convocatòria estableix." "pagament - N, M
+dotació - N, F
+disponibilitat - N, F
+liquiditat - N, F
+UA - N, F
+subvenció - N, F
+ajuda - N, F
+Llei - N, F
+novembre - N, M
+General - N, F
+Subvencions - N, F
+regulacions - N, F
+requisits - N, M
+termes - N, M
+normes - N, F
+funcionament - N, M
+UA - N, F
+convocatòria - N, F"
+
+"- Model de Currículum de la Universitat d’Alacant per a Personal Investigador en Projectes d’Investigació, disponible en la mateixa pàgina web referenciada per a la instància i fotocòpies dels documents que acrediten els mèrits al·legats; i per a l’apartat “12." "Model - N, M
+Currículum - N, M
+Universitat - N, F
+Alacant - N, F
+Personal - N, M
+Projectes - N, M
+Investigació - N, M
+pàgina - N, F
+instància - N, F
+fotocòpies - N, F
+documents - N, M
+acrediten - N, M
+mèrits - N, M
+apartat - N, M"
+
+"Adoptar la deguda diligència per a resoldre les consultes en el temps màxim establit." "diligència - N, F
+consultes - N, F
+temps - N, M"
+
+"En qualsevol moment del procés, es podrà sol·licitar a l'aspirant la presentació dels originals dels documents presentats i, si escau, de la traducció per intèrpret jurat dels mateixos." "moment - N, M
+procés - N, M
+aspirant - P, M
+presentació - N, F
+originals - N, M
+documents - N, M
+traducció - N, F
+intèrpret - P, M
+mateixos - N, M"
+
+"El director de l'Institut podrà ser remogut pel consell d'Institut." "director - P, M
+Institut - N, M
+consell - N, M
+Institut - N, M"
+
+"El Rectorat de la Universitat de València, fent ús de les atribucions que li confereix l'article 20, en relació amb l'article 2.2 de la Llei orgànica 6/2001, de 21 de desembre, d'Universitats, resol:Fer l'oferta pública d'una plaça d'investigador/a no doctor/a d'acord amb les bases següents:Primera." "Rectorat - N, M
+Universitat - N, F
+València - N, F
+ús - N, M
+atribucions - N, F
+article - N, M
+relació - N, F
+article - N, M
+Llei - N, F
+desembre - N, M
+Universitats - N, F
+oferta - N, F
+plaça - N, F
+investigador - P, M
+investigadora - P, F
+doctor - P, M
+doctora - P, F
+bases - N, F
+Primera - N, F"
+
+"Jerarquització dels recursos turístics per nivells, segons importància turística, que potencie els nostres 4 elements més singulars: el paisatge, l'aigua, les sendes i el nostre patrimoni cultural a través d'indicadors establits en el nostre pla estratègic." "Jerarquització - N, F
+recursos - N, M
+nivells - N, M
+importància - N, F
+elements - N, M
+paisatge - N, M
+aigua - N, F
+sendes - N, F
+patrimoni - N, M
+indicadors - N, M
+pla - N, M"
+
+"Redactar anualment la memòria que reflectisca les vicissituds de l'any, que haurà de llegir-se en l'Assemblea General ordinària, i que serà elevada a coneixement del Consell General." "memòria - N, F
+vicissituds - N, F
+any - N, M
+Assemblea - N, F
+coneixement - N, M
+Consell - N, M"
+
+"Un fisioterapeuta amb reconeguda experiència i coneixements en Atenció Primària." "fisioterapeuta - P, M
+experiència - N, F
+coneixements - N, M
+Atenció - N, F"
+
+"Cosa que es fa pública als efectes preceptuats en l'article 60 de la llei d'aquesta jurisdicció." "Cosa - N, F
+efectes - N, M
+article - N, M
+llei - N, F
+jurisdicció - N, F"
+
+"Estar en possessió o en condicions d'obtindre la titulació i els nivells d'idiomes que s'assenyala en la base 1 la data en què finalitze el termini de presentació de sol·licituds." "possessió - N, F
+condicions - N, F
+titulació - N, F
+nivells - N, M
+idiomes - N, M
+base - N, F
+data - N, F
+termini - N, M
+presentació - N, F
+sol·licituds - N, F"
+
+"En el cas que el desenvolupament dels àmbits requerisca efectuar abocament a llit públic haurà de preveure's l'obtenció de la corresponent autorització d'abocament a domini públic per part de l'organisme de conca." "cas - N, M
+desenvolupament - N, M
+àmbits - N, M
+abocament - N, M
+llit - N, M
+autorització - N, F
+domini - N, M
+organisme - N, M
+conca - N, F"
+
+"La matrícula no es considera formalitzada completament fins que l'escola oficial d'idiomes no rep tota la documentació necessària i valida l'alta." "matrícula - N, F
+escola - N, F
+idiomes - N, M
+documentació - N, F
+alta - N, F"
+
+"Tot això sense perjuí del que resulte de la instrucció." "perjuí - N, M
+instrucció - N, F"
+
+"Per tant, fent ús de les atribucions que tinc conferides, i en desplegament del Decret 126/1999, de 26 d'agost, del Govern Valencià, pel qual crea el Sistema d'Informació Poblacional, ORDENE Article 1 S'estableix l'obligació d'incloure el número SIP en tots els documents següents: 1." "ús - N, M
+atribucions - N, F
+Decret - N, M
+agost - N, M
+Govern - N, M
+Sistema - N, M
+Informació - N, F
+Article - N, M
+obligació - N, F
+número - N, M
+SIP - N, M
+documents - N, M"
+
+"La suma dels apartats 1, 2, 3, 4 i 5 no podrà excedir els 35 punts." "suma - N, F
+apartats - N, M
+punts - N, M"
+
+"El cap del Servei Territorial d'Indústria, Energia i Mines: Gerardo Nebot García." "cap - P, M
+Servei - N, M
+Indústria - N, F
+Energia - N, F
+Mines - N, F
+Gerardo - P, M"
+
+"La preservació d'aquests medis requereix un acostament particular que permeta forjar aliances amb els agricultors, de manera que l'activitat productiva es duga a terme de manera compatible amb la presència de la fauna i flora d'interés." "preservació - N, F
+medis - N, M
+acostament - N, M
+aliances - N, F
+agricultors - P, M
+activitat - N, F
+manera - N, F
+fauna - N, F
+flora - N, F
+interés - N, M"
+
+"Objectius i àmbit d'aplicació de les lleis 39/2015 i 40/2015; interessats, principis generals, òrgans administratius, competència i òrgans col·legiats; els actes administratius i el procediment administratiu comú (iniciació, tràmit i finalització dels procediments); així com la revisió d'actes en via administrativa: la revisió d'ofici i els recursos administratius." "Objectius - N, M
+àmbit - N, M
+aplicació - N, F
+lleis - N, F
+interessats - P, M
+principis - N, M
+òrgans - N, M
+competència - N, F
+òrgans - N, M
+actes - N, M
+procediment - N, M
+iniciació - N, F
+tràmit - N, M
+finalització - N, F
+procediments - N, M
+revisió - N, F
+actes - N, F
+via - N, F
+ofici - N, M
+recursos - N, M"
+
+"Que el Decret Legislatiu 1/2021, de 18 de juny, del Consell, d'aprovació del text refós de la Llei d'ordenació del territori, urbanisme i paisatge té com un dels seus objectius, incorporar la perspectiva de gènere i inclusiva en el planejament urbà i, a més, en el seu annex IV, estableix com a criteri de qualitat urbana, precisament, la incorporació d'aquesta perspectiva, a l'hora de disposar l'equipament urbà sobre el territori." "Decret - N, M
+juny - N, M
+Consell - N, M
+aprovació - N, F
+text - N, M
+Llei - N, F
+ordenació - N, F
+territori - N, M
+urbanisme - N, M
+paisatge - N, M
+objectius - N, M
+perspectiva - N, F
+gènere - N, M
+planejament - N, M
+annex - N, M
+criteri - N, M
+qualitat - N, F
+incorporació - N, F
+perspectiva - N, F
+hora - N, F
+equipament - N, M
+territori - N, M"
+
+"La sentència anterior ha sigut donada, llegida i publicada per la jutgessa que la va dictar en el dia de la seua data." "sentència - N, F
+jutgessa - P, F
+dia - N, M
+data - N, F"
+
+"Els aspirants discapacitats hauran de presentar certificat de la Conselleria de Benestar Social o dels òrgans competents d'altres administracions públiques, que acredite discapacitació igual o superior al 33%, així com la seua capacitat per a exercir les funcions que corresponguen a les vacants oferides." "aspirants - P, M
+certificat - N, M
+Conselleria - N, F
+Benestar - N, M
+Social - N, M
+òrgans - N, M
+administracions - N, F
+discapacitació - N, F
+capacitat - N, F
+funcions - N, F
+corresponguen - N, F
+vacants - N, F"
+
+"Les naus en què s'efectuarà el canvi d'activitat disposen d'uns quants mòduls separats per blocs de formigó fins al sostre, sòl format per plaques de formigó prefabricades amb ranures que comuniquen amb fosses i aquestes, al seu torn, amb cubetes d'aspiració." "naus - N, F
+canvi - N, M
+activitat - N, F
+mòduls - N, M
+blocs - N, M
+formigó - N, M
+sostre - N, M
+sòl - N, M
+plaques - N, F
+ranures - N, F
+fosses - N, F
+torn - N, M
+cubetes - N, F
+aspiració - N, F"
+
+"Seran esmenables els errors de fet assenyalats en l'article 70 de la Llei 30/1992, de 26 de novembre, de Règim Jurídic de les Administracions Públiques i Procediment Administratiu Comú, com ara les dades personals de l'interessat, lloc assenyalat a l'efecte de les notificacions, data, firma o òrgan a què es dirigeix." "errors - N, M
+fet - N, M
+article - N, M
+Llei - N, F
+novembre - N, M
+Règim - N, M
+Administracions - N, F
+Procediment - N, M
+dades - N, F
+interessat - P, M
+lloc - N, M
+efecte - N, M
+notificacions - N, F
+data - N, F
+firma - N, F
+òrgan - N, M
+dirigeix - N, M"
+
+"Un funcionari de l'Ajuntament, pertanyent preferentment al cos de la policia local." "funcionari - P, M
+Ajuntament - N, M
+cos - N, M
+policia - N, F"
+
+"Aquesta forma de destacar i de reconeixer els continguts generals s'avala per dos principis de caracter metodologic." "forma - N, F
+continguts - N, M
+principis - N, M
+caràcter - N, M"
+
+"Complerts els tramits requerits en la convocatòria, una vegada transcorregut el termini de reclamacions, estudiades i, si va escaure, ateses aquestes, s'ha seleccionat el professorat participant segons la base vuitena de l'ordre." "tramits - N, M
+convocatòria - N, F
+termini - N, M
+reclamacions - N, F
+professorat - P, M
+base - N, F
+vuitena - N, F
+ordre - N, M"
+
+"Aquesta delegacio entrara en vigor l'endema de la publicacio al Diari Oficial de la Generalitat Valenciana." "delegació - N, F
+vigor - N, M
+endemà - N, M
+publicació - N, F
+Diari - N, M
+Generalitat - N, F"
+
+"Vetllar pel bon ordre i disciplina en el treball, i tambe per la millor qualitat artistica d'aquest." "ordre - N, M
+disciplina - N, F
+treball - N, M
+qualitat - N, F"
+
+"4.-Utilitzar les estrategies o destreses propies de la investigació cientifica, tant documentals com experimentals, per resoldre problemes, realitzar treballs practics i, en general, explorar situacions i fenòmens desconeguts per a ells; reconeixent el caràcter de la ciencia com un procés canviant i dinamic." "estrategies - N, F
+destreses - N, F
+investigació - N, F
+problemes - N, M
+treballs - N, M
+situacions - N, F
+fenòmens - N, M
+ells - P, M
+caràcter - N, M
+ciencia - N, F
+procés - N, M"
+
+"La quantia de l'ajuda dependra de la qualitat del producte, tenint un valor maxim de 450 pessetes per tona, per a la qualitat superior, segons les condicions de l'annex I d'aquesta ordre." "quantia - N, F
+ajuda - P, F
+qualitat - N, F
+producte - N, M
+valor - N, M
+pessetes - N, F
+tona - N, F
+qualitat - N, F
+condicions - N, F
+annex - N, M
+ordre - N, F"
+
+"La quantia d'aquests recursos ha estat determinada amb dad es deis Pressupostos Generals de l'Estat per a 1982." "quantia - N, F
+recursos - N, M
+Pressupostos - N, M
+Estat - N, M"
+
+">> Tenint en compte el que disposa l'article 118 de la Constitució Espanyola, el qual estableix l'obligatorietat de complir les sentències i altres resolucions fermes dictades per jutges i tribunals, com també del que estableix l'article 17.2 de la Llei Orgànica del Poder Judicial i altres preceptes concordants de la vigent Llei Reguladora de la Jurisdicció Contenciosa Administrativa, aquesta Secretaria General disposa que els òrgans de gestió competents complisquen l'esmentada sentència, en els seus propis termes, i es publique la citada decisió en el Diari Oficial de la Generalitat Valenciana." "article - N, M
+Constitució - N, F
+qual - P, M
+obligatorietat - N, F
+sentències - N, F
+resolucions - N, F
+jutges - P, M
+tribunals - N, M
+article - N, M
+Llei - N, F
+Poder - N, M
+preceptes - N, M
+Llei - N, F
+Jurisdicció - N, F
+Secretaria - P, F
+òrgans - N, M
+gestió - N, F
+sentència - N, F
+seus - N, M
+termes - N, M
+decisió - N, F
+Diari - N, M
+Generalitat - N, F"
+
+"3.4 La documentació a que es refereixen els apartats 3.2 i 3.3 haura de trametre's abans del 15 de novembre de 1995 a la Direcció General d'Ordenació i Innovació Educativa de la Conselleria d'Educació i Ciència." "documentació - N, F
+apartats - N, M
+novembre - N, M
+Direcció - N, F
+Ordenació - N, F
+Innovació - N, F
+Conselleria - N, F
+Educació - N, F
+Ciència - N, F"
+
+"Si no es tenen les titulacions anteriors poden presentar-se per al ingres en aquest cos els qui, havent prestat serveis com a funcionaris interins en els cossos integrats en aquest, durant un temps minim de tres cursos academics continus, continuaven prestant-los a l'entrada en vigor de la Llei Organica 1/1990, d'Ordenacio General del Sistema Educatiu." "titulacions - N, F
+ingrés - N, M
+cos - N, M
+els - P, M
+serveis - N, M
+funcionaris - P, M
+cossos - N, M
+temps - N, M
+cursos - N, M
+entrada - N, F
+vigor - N, F
+Llei - N, F
+Ordenació - N, F
+Sistema - N, M"
+
+"Els Tribunals que actuen en aquestes proves selectives, tindran la categoria tercera de les categories en l'Annex IV Decret 200/1985 de 23 de desembre del Consell de la Generalitat Valenciana." "Tribunals - N, M
+proves - N, F
+categoria - N, F
+categories - N, F
+Annex - N, M
+Decret - N, M
+desembre - N, M
+Consell - N, M
+Generalitat - N, F"
+
+"Cas de no efectuar-se les accions o si s'incomplien els requisits que figuren en la normativa de la concessió de la subvenció s'haurà de reintegrar l'import d'aquesta a la Tresoreria General de la Generalitat Valenciana." "Cas - N, M
+accions - N, F
+requisits - N, M
+normativa - N, F
+concessió - N, F
+subvenció - N, F
+import - N, M
+Tresoreria - N, F
+Generalitat - N, F"
+
+"d) Termini durant el qual el licitador estarà obligat a mantenir la seua oferta: 3 mesos a partir del termini de presentació de proposicions econòmiques." "Termini - N, M
+licitador - P, M
+oferta - N, F
+mesos - N, M
+termini - N, M
+presentació - N, F
+proposicions - N, F"
+
+"El concessionari podrà, a més, retirar lliurement aquells elements existents en la concessió que no hagen estat indicats en l'acta de reconeixement final i no estiguen units de manera fixa a l'immoble, sempre que amb això no es produlsca trencament ni deteriorament d'aquest, llevat que l'administració en decidisca també el rescat." "concessionari - P, M
+elements - N, M
+concessió - N, F
+acta - N, F
+reconeixement - N, M
+immoble - N, M
+trencament - N, M
+deteriorament - N, M
+administració - N, F
+rescat - N, M"
+
+"Vist que, d'acord amb el que disposa l'article 16.4 de la Llei de Patrimoni de la Generalitat Valenciana, es competència d'aquesta conselleria l'aprovació de delimitacions d'immobles propietat de la Generalitat Valenciana." "article - N, M
+Llei - N, F
+Patrimoni - N, M
+Generalitat - N, F
+competència - N, F
+conselleria - N, F
+aprovació - N, F
+delimitacions - N, F
+immobles - N, M
+propietat - N, F
+Generalitat - N, F"
+
+"Per denúncia d'una de les parts, l'avís previ de la qual s'haurà de fer, com a mínim, sis mesos abans de I'inici del curs academic en que s'haja d'extingir." "denúncia - N, F
+parts - N, F
+avís - N, M
+mesos - N, M
+inici - N, M
+curs - N, M"
+
+"Seguiment i elaboració de programacions d'aula, amb una durada de 42 hores." "Seguiment - N, M
+elaboració - N, F
+programacions - N, F
+aula - N, F
+durada - N, F
+hores - N, F"
+
+"Tot seguit, es configuraran per separat tres relacions corresponents, respectivament, al torn d'accés lliure, a la quota de discapacitats i al torn de promoció interna." "relacions - N, F
+torn - N, M
+accés - N, M
+quota - N, F
+discapacitats - P, F
+torn - N, M
+promoció - N, F"
+
+"Els drets d'examen seran reintegrats d'ofici als aspirants que hagen estat exclosos definitivament d'aquestes proves selectives." "drets - N, M
+examen - N, M
+aspirants - P, M
+proves - N, F"
+
+"Una vegada acordades per la Conselleria respectiva les modificacions pressupostaries abans indicades, es remetran les actuacions a la Direccio General de Pressupostos per a la informació de I'esmentat centre Directiu i, si s'escau, per a instrumentar l'execució." "vegada - N, F
+Conselleria - N, F
+modificacions - N, F
+actuacions - N, F
+Direccio - N, F
+Pressupostos - N, M
+informació - N, F
+centre - N, M
+Directiu - N, M
+execució - N, F"

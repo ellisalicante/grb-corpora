@@ -1,0 +1,5 @@
+<EXAMPLES>
+
+Frase: "<SENTENCE>"
+
+Instrucciones: Identifica todos los sustantivos y pronombres en la frase proporcionada. Para cada uno, determina si se refiere a una persona (P) o no (N), y especifica su género gramatical: masculino (M), femenino (F). Excluye los apellidos. Sigue el formato de los ejemplos proporcionados sin añadir texto adicional.

@@ -1,0 +1,50 @@
+Ejemplo 1: "El señor Presidente viajó a Tokio para reunirse con el secretario de estado y a la mañana siguiente tuvo que volar a Madrid por temas personales."
+señor - P, M
+Presidente - P, M
+Tokio - N, M
+secretario - P, M
+estado - N, M
+mañana - N, F
+Madrid - N, M
+temas - N, M
+
+Ejemplo 2: "Mi colega Sr. Allan Hofmann se dirigió a los ciudadanos de Madrid, recordándoles que son personas con derechos y responsabilidades."
+colega - P, M
+Sr. - P, M
+Allan - P, M
+ciudadanos - P, M
+Madrid - N, M
+personas - P, F
+derechos - N, M
+responsabilidades - N, F
+
+Ejemplo 3: "El señor Presidente de la comisión de educación se reunió con los estudiantes en Tokio, donde el distinguido Sir Ben Smith compartió su visión sobre el futuro de la enseñanza."
+señor - P, M
+Presidente - P, M
+comisión - N, F
+educación - N, F
+estudiantes - P, M
+Tokio - N, M
+Sir - P, M
+Ben - P, M
+visión - N, F
+futuro - N, M
+enseñanza - N, F
+
+Ejemplo 4: "El Sr. Johnson, un respetado colega de la ciudadanía británica, ha vivido en Londres durante más de dos décadas, donde trabaja incansablemente para mejorar la comunidad local."
+Sr. - P, M
+colega - P, M
+ciudadanía - N, F
+Londres - N, M
+décadas - N, F
+comunidad - N, F
+
+Ejemplo 5: "Encontré en Europa no solo destinos turísticos, sino un hogar temporal donde me sentí ciudadana del mundo, abrazando la diversidad y la riqueza cultural que esta tierra ofrece."
+Europa - N, F
+destinos - N, M
+hogar - N, M
+ciudadana - P, F
+mundo - N, M
+diversidad - N, F
+riqueza - N, F
+tierra - N, F
