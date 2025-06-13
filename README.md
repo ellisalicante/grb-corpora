@@ -75,7 +75,7 @@ If you use this code or data, please cite our paper:
 
 ```bibtex
 @inproceedings{derner2025leveraging,
-  author    = {Derner, Erik and de la Fuente, Sara Sansalvador and Guti{\'e}rrez, Yoan and Moreda, Paloma and Oliver, Nuria},
+  author    = {Derner, Erik and Sansalvador de la Fuente, Sara and Guti{\'e}rrez, Yoan and Moreda, Paloma and Oliver, Nuria},
   title     = {Leveraging Large Language Models to Measure Gender Representation Bias in Gendered Language Corpora},
   booktitle = {Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP)},
   pages     = {1--16},
