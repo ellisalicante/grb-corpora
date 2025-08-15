@@ -78,7 +78,10 @@ If you use this code or data, please cite our paper:
   author    = {Derner, Erik and Sansalvador de la Fuente, Sara and Guti{\'e}rrez, Yoan and Moreda, Paloma and Oliver, Nuria},
   title     = {Leveraging Large Language Models to Measure Gender Representation Bias in Gendered Language Corpora},
   booktitle = {Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP)},
-  pages     = {1--16},
-  year      = {2025}
+  pages     = {468--483},
+  publisher = {Association for Computational Linguistics},
+  address   = {Vienna, Austria},
+  year      = {2025},
+  month     = {Aug}
 }
 ```
